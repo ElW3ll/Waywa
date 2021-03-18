@@ -5,7 +5,7 @@ This is a MERN Stack application where player can host an event for other player
 Link - https://Waywa.com/
 
 <p align = "center">
-    <img src="https://res.cloudinary.com/ysongit/image/upload/v1584496558/project/Frame_1_mojlxa.png" />
+    
 </p>
 
 ## The technologies used to create this project:
