@@ -18,17 +18,4 @@ Link - https://Waywa.com/
 - REST API
 - Redux
 
-## Running the web app
-- Clone the repo
-- Add a file called `keys_dev.js` on your config folder
-- Add the follow code to keys_dev.js:
-```
-module.exports = {
-    mongoURI: {Add a connection string from MongoDB Alta},
-    secretOrKey: {Enter a random string}
-};
-```
-- Run `npm i && npm start` to start your server
-- CD to client folder and run `npm i && npm start` to start the web app
 
-## Preview
